@@ -17,5 +17,9 @@ public class Test01 {
 		
 		System.out.println("conflict");
 	}
+	
+	public static void test01() {
+		
+	}
 
 }

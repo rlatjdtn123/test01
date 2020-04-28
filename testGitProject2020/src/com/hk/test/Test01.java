@@ -10,9 +10,10 @@ public class Test01 {
 		
 
 		System.out.println("다중수정test");
-
-
-
+		System.out.println("수정test04");
+		
+		System.out.println("수정test05");
+		System.out.println("수정test06");
 	}
 
 }
